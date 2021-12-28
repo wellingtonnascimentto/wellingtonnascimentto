@@ -1,6 +1,5 @@
 ### Olá! Eu Sou Wellington Nascimento 👋
 
-- 🔭 Atualmente estou trabalhando em um Posto Automotivo.
 - 🌱 Cursando Desenvolvedor de Programação na BlueEdtech.
 - 😄 Pronouns: Ele/Dele
 - ⚡ Desenvolvedor em Desenvolvimento!
